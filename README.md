@@ -1,6 +1,9 @@
-### Hi there 👋
-<img src = "cover.svg" />
-
+<div align = 'center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
+<p align = 'center'>Hi I'm</p>
+<h1 align = 'center'>Nazaraliyev</h1>
+<h3 align="center">I'am Front End developer</h3>
+<h3 align="center">I'm a Front-End Developer :blonde_woman:  <br/> who is strive while utilising both the logical and creative part of the brain.
+</h3>
 
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
