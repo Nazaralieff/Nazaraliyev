@@ -1,37 +1,59 @@
-<div align = 'center'><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
-<p align = 'center'>Hi I'm</p>
-<h1 align = 'center'>Nazaraliyev</h1>
-<h3 align="center">I'am Front End developer</h3>
-<h3 align="center">I'm a Front-End Developer :blonde_woman:  <br/> who is strive while utilising both the logical and creative part of the brain.
-</h3>
+<p align = 'center' width = '300'>Hi Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<h1 align = 'center'> I'm Nazaraliyev</h1>
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-  
-  ##
- 
+<img src = '1.jpg' align = 'right' width = '300' />
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align="left">I'am Front End developer</span><br>
+<span align = 'left'> sxmskxmsx</span>
+
+<br/><br/><br/>
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+  <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://material-ui.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
+    <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
+    <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+ <h1></h1>
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+
+
+
+
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=xkendx" alt="visitor counter" width="20%"/></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Nazaraliyev&theme=github_dark" alt="my github stats" width="49%"/>&nbsp;
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=Nazaraliyev&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=DDDDDD&stroke=4C8EDA&ring=4C8EDA&sideNums=4C8EDA&currStreakNum=4C8EDA&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" width = "49%"/>
+</p>
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Nazaraliyev&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
