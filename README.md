@@ -2,6 +2,7 @@
 <h1 align = 'center'> I'm Nazaraliyev</h1>
 
 <img src = '1.jpg' align = 'right' width = '300' />
+<h2>About Me</h2>
 <ul>
     <li>I'm Student</li>
     <li>Computer Engineering</li>
