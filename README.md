@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src = "cover.png" />
+<img src = "cover.svg" />
