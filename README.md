@@ -2,7 +2,7 @@
 <h1 align = 'center'> I'm Nazaraliyev</h1>
 
 
-<img src = '1.jpg' align = 'right' width = '300' />
+<img src = '1.jpg' align = 'right' width = '250' />
 <p>I'm <b>FrontEnd Developer</b> of today and Full Stack developer of future... <br/> Wish me Good Luck </p>
 <br/>
 
