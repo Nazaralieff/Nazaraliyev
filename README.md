@@ -1,9 +1,9 @@
-<p align = 'center' width = '300'>Hi Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align = 'center'>Hi Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 <h1 align = 'center'> I'm Nazaraliyev</h1>
 
 
-<img src = '1.jpg' align = 'right' width = '300' />
-<p>I'm <b>FrontEnd Developer</b> of today and Full Stack developer of future... <br/> Wish me Good Luck </p>
+<img src = '1.jpg' align = 'right' width = '350' />
+<p>I'm <b>FrontEnd Developer</b> of today and Full Stack developer of future...I'm <b>FrontEnd Developer</b> of today and Full Stack developer of future...I'm <b>FrontEnd Developer</b> of today and Full Stack developer of future... <br/> Wish me Good Luck </p>
 <br/>
 
 ## About Me
@@ -12,8 +12,9 @@
     <li>Computer Engineering</li>
     <li>Azerbaijan Technical University</li>
     <li>From Azerbaijan and Living in Baku</li>
-    <li>Computer Engineering</li>
-    <li>Computer Engineering</li>
+    <li>From Azerbaijan and Living in Baku</li>
+    
+
 </ul><br/><br/><br/>
 
 ## Contact With Me
@@ -23,10 +24,7 @@
     <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/>
     <img src = "https://www.flaticon.com/premium-icon/email_3686989?term=mail&page=1&position=48&page=1&position=48&related_id=3686989" />
     <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/>
-    
-    
-
-
+   
 </div><br/><br/><br/>
 
 
@@ -88,5 +86,5 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Nazaraliyev&theme=github_dark" alt="my github stats" width="49%"/>&nbsp;
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Nazaraliyev&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=DDDDDD&stroke=4C8EDA&ring=4C8EDA&sideNums=4C8EDA&currStreakNum=4C8EDA&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" width = "49%"/> </p>
-<p align="center"><img width="100%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=1000&theme=github_dark" /></p>
+<p align="center"><img width="100%" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazaraliyev&layout=compact&card_width=1000&theme=github_dark" /></p>
 
