@@ -1,24 +1,38 @@
 <p align = 'center' width = '300'>Hi Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 <h1 align = 'center'> I'm Nazaraliyev</h1>
 
+
 <img src = '1.jpg' align = 'right' width = '300' />
-<h2>About Me</h2>
+<p>I'm <b>FrontEnd Developer</b> of today and Full Stack developer of future... <br/> Wish me Good Luck </p>
+<br/>
+
+## About Me
 <ul>
-    <li>I'm Student</li>
+    <li>I'm Student, Becholor Degree / 3 year</li>
     <li>Computer Engineering</li>
     <li>Azerbaijan Technical University</li>
-    <li>Becholor Degree / 3 year</li>
-    <li>From Azerbaijan, Living in Baku</li>
+    <li>From Azerbaijan and Living in Baku</li>
     <li>Computer Engineering</li>
     <li>Computer Engineering</li>
-</ul>
-<br/><br/><br/>
-<h2>Contact With Me</h2>
+</ul><br/><br/><br/>
+
+## Contact With Me
+<div>
+    <img src="https://img.icons8.com/color/48/000000/facebook-circled.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/>
+    <img src = "https://www.flaticon.com/premium-icon/email_3686989?term=mail&page=1&position=48&page=1&position=48&related_id=3686989" />
+    <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/>
+    
+    
+
+
+</div><br/><br/><br/>
 
 
 
-<br/><br/><br/>
-<h2>Programming Langiage and Tools</h2>
+
+## Programming Langiage and Tools
 <br/>
 
 
@@ -62,15 +76,14 @@
 [![AmazonAws](https://img.shields.io/badge/-AmazonAws-black?style=for-the-badge&logo=amazon-aws&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=for-the-badge&logo=raspberry-pi&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-
 [![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kali-linux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Hack The Box](https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hack-the-box&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-
-
 <br/><br/><br/>
 
-<h2>My Github Stats</h2>
+
+
+## My Github Stats
 <br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Nazaraliyev&theme=github_dark" alt="my github stats" width="49%"/>&nbsp;
